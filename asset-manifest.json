@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quizmember/static/css/main.74aaa456.css",
+    "main.js": "/quizmember/static/js/main.1124706c.js",
+    "static/js/787.157504f2.chunk.js": "/quizmember/static/js/787.157504f2.chunk.js",
+    "index.html": "/quizmember/index.html",
+    "main.74aaa456.css.map": "/quizmember/static/css/main.74aaa456.css.map",
+    "main.1124706c.js.map": "/quizmember/static/js/main.1124706c.js.map",
+    "787.157504f2.chunk.js.map": "/quizmember/static/js/787.157504f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74aaa456.css",
+    "static/js/main.1124706c.js"
+  ]
+}
